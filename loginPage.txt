@@ -1,1 +1,10 @@
 Created login page successfully...
+
+
+Today Task:
+
+1.
+2.
+3.
+
+https://github.com/ManickamR26/Ecommerce/pull/1
